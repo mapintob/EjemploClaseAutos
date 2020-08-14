@@ -10,7 +10,8 @@ public class Autos {
     String motor;
     int kilometraje;
     int marchaActual;
-    
+    int kilometraje11;
+    int marchaActual11;
     //metodos
     void acelerar(){
         System.out.println("auto acelerando..");
